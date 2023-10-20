@@ -84,7 +84,7 @@ This project was a collaborative effort involving the following contributors:
 
 **Pod members:**
 - [Franck Porteous](https://github.com/FranckPrts)
-- Hannah Krohn
+- Hannah Lili
 - James Milward
 - Faith Hunja
 - Ayman khaled Attah-Allah
